@@ -1,1 +1,1 @@
-put "What's up SB"
+puts "What's up SB"
